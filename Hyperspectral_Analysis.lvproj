@@ -35,7 +35,6 @@
 			<Item Name="cluster.vi" Type="VI" URL="../business/cluster.vi"/>
 			<Item Name="cluster_to_image.vi" Type="VI" URL="../business/cluster_to_image.vi"/>
 			<Item Name="color_image.vi" Type="VI" URL="../business/color_image.vi"/>
-			<Item Name="Commande 1.ctl" Type="VI" URL="../../Hyperspectral_Analysis_v2018 - Copie/HSI.llb/Commande 1.ctl"/>
 			<Item Name="extract_wavelength.vi" Type="VI" URL="../business/extract_wavelength.vi"/>
 			<Item Name="get_average_roi_spectrum.vi" Type="VI" URL="../business/get_average_roi_spectrum.vi"/>
 			<Item Name="get_cube.vi" Type="VI" URL="../business/get_cube.vi"/>
